@@ -10,5 +10,5 @@ export const Home = () => {
 
         <p>Sunt qui fugiat exercitation minim et mollit dolore eu. Cillum nostrud ullamco pariatur quis ea Lorem anim in. Id esse reprehenderit consectetur non voluptate aliquip elit duis excepteur ullamco ut tempor. Nostrud consectetur eiusmod non culpa</p>
     </div>
-  )
+  ) 
 }
